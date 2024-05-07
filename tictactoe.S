@@ -27,7 +27,7 @@
 
 .global main
 main:
-	pushq   %rbp
+    pushq   %rbp
     movq    %rsp, %rbp
 
     subq    $16, %rsp
@@ -317,6 +317,7 @@ draw:
 
     leaq    cell(%rip), %rsi
     leaq    input_str(%rip), %rdi
+
     call    scanf
 
     movq    %rbp, %rsp
