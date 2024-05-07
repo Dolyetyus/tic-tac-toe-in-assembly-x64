@@ -1,9 +1,8 @@
 # Tic Tac Toe Game in Assembly x64
 
 This is a simple implementation of the classic terminal based Tic Tac Toe game in Assembly, playable against another player or against an amazing(?) AI that I implemented. 
-```
-Note: I was going to add difficulty levels for the AI, but not now. Maybe I can add those later. Current AI is not very challenging, it is focused on winning instead of preventing you from winning.
-```
+
+> Note: I was going to add difficulty levels for the AI, but not now. Maybe I can add those later. Current AI is not very challenging, it is focused on winning instead of preventing you from winning.
 
 ## How to Play
 
